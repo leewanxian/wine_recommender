@@ -14,7 +14,7 @@ This report has 4 jupyter notebooks in total.
 
 This report shows that the best-performing recommender model is the k-NN Baseline model where maximum number of neighbors to account fro aggregation is 35 and cosine similarity measure is used. In conclusion, we recommend that the <font color="blue">k-NN Baseline model</font> should be used as the recommender system for this use case.<br>
 
-Feel free to try out the wine recommender application [here](https://leewanxian-wine-recsys-app-app-v1pl1w.streamlit.app/).
+Feel free to try out the wine recommender application [here](https://leewanxian-wine-recommender-app-44l3c7.streamlit.app/).
 
 ---
 ## Problem Statement
@@ -116,7 +116,7 @@ Going back to the problem statement, we recommend that the k-NN Baseline model s
 ---
 ## Streamlit App
 
-[Streamlit App Link](https://leewanxian-wine-recsys-app-app-v1pl1w.streamlit.app/)
+[Streamlit App Link](https://leewanxian-wine-recommender-app-44l3c7.streamlit.app/)
 
 1. Users can select either one or more wine traits by typing in the dropdown list window. You can leave it empty if you choose to.
 2. Click "Show me the wines!" to start the recommender
